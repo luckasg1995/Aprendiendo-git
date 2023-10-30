@@ -1,5 +1,5 @@
 console.log ("primer commit")
 function sayBye () {
-    console.log ("Chau!")
+    console.log ("Chau, chau!")
 }
 
