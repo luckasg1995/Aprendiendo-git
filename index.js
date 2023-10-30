@@ -1,4 +1,4 @@
 console.log ("primer commit")
-console.log () {
-    console.log ("Hola!")
+function sayHello () {
+    console.log ("Hola! ¿Como estan?")
 }
